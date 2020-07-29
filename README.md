@@ -8,4 +8,6 @@ In my free time, I love being with my family and friends and having some more ti
 
 Would you like to find me?
 
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPetronio_RJ
+[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPetronio_RJ)
+
+
