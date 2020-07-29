@@ -5,9 +5,3 @@ My name is Petronio Bernardino. I am Brazilian and living in Portugal). I have a
 Today I'm working with a tester(🔭), studying (🌱) a lot about automation and programming languages.
 
 In my free time, I love being with my family and friends and having some more time, watching anime and series(📺).
-
-Would you like to find me?
-
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPetronio_RJ)
-
-
