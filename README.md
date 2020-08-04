@@ -9,3 +9,12 @@ In my free time, I love being with my family and friends and having some more ti
 [! [Crachá do Twitter] (https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Petronio_RJ)] (https://twitter.com/Petronio_RJ)
 
 [! [Selo no Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petronio-bernardino/)] ( https://www.linkedin.com/in/petronio-bernardino/)
+
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=default" /></td>
+  </tr>   
+</table>
+</center>
