@@ -11,10 +11,10 @@ In my free time, I love being with my family and friends and having some more ti
 [! [Selo no Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petronio-bernardino/)] ( https://www.linkedin.com/in/petronio-bernardino/)
 
 <center>
-<table>
+<table bordercolor="#FFFFFF">
   <tr>
-      <td><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact" /></td>
-      <td><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=default" /></td>
+      <td bordercolor="#FFFFFF"><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact" /></td>
+      <td bordercolor="#FFFFFF"><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=default" /></td>
   </tr>   
 </table>
 </center>
