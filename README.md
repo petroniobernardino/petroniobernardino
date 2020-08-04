@@ -11,7 +11,7 @@ In my free time, I love being with my family and friends and having some more ti
 [! [Selo no Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petronio-bernardino/)] ( https://www.linkedin.com/in/petronio-bernardino/)
 
 <center>
-<table border="0">
+<table border="0" bordercolor="#000000">
   <tr>
       <td border="0"><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact" /></td>
       <td border="0"><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=default" /></td>
