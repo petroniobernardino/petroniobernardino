@@ -13,8 +13,8 @@ In my free time, I love being with my family and friends and having some more ti
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=default" /></td>
+      <td><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact" /></td>
+      <td><img width="495px" bordercolor="#FFFFFF" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=default" /></td>
   </tr>   
 </table>
 </center>
