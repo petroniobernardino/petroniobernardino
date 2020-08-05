@@ -7,7 +7,7 @@ Today I'm working with a tester(🔭), studying (🌱) a lot about automation an
 In my free time, I love being with my family and friends and having some more time, watching anime and series(📺).
 
 <a href="https://twitter.com/Petronio_RJ" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FPetronio_RJ"></a>
-<a href="https://www.linkedin.com/in/petronio-bernardino/?senderId=petronio-bernardino" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpetronio-bernardino%2F%3FsenderId%3Dpetronio-bernardino"></a>
+<a href="https://www.linkedin.com/in/petronio-bernardino" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpetronio-bernardino%2F%3FsenderId%3Dpetronio-bernardino"></a>
 
 <center>
 <table border="0" bgcolor="#FFFFFF">
