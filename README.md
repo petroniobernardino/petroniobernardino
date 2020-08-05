@@ -6,7 +6,7 @@ Today I'm working with a tester(🔭), studying (🌱) a lot about automation an
 
 In my free time, I love being with my family and friends and having some more time, watching anime and series(📺).
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FPetronio_RJ">
+<a href="https://twitter.com/Petronio_RJ" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FPetronio_RJ"></a>
 
 <center>
 <table border="0" bordercolor="#000000">
