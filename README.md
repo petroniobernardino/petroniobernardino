@@ -10,7 +10,7 @@ In my free time, I love being with my family and friends and having some more ti
 <a href="https://www.linkedin.com/in/petronio-bernardino/?senderId=petronio-bernardino" ><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpetronio-bernardino%2F%3FsenderId%3Dpetronio-bernardino"></a>
 
 <center>
-<table>
+<table border="0" bgcolor="#FFFFFF">
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petroniobernardino&hide=html&layout=compact&theme=''" /></td>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=petroniobernardino&theme=''"/></td>
