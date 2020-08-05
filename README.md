@@ -6,10 +6,6 @@ Today I'm working with a tester(🔭), studying (🌱) a lot about automation an
 
 In my free time, I love being with my family and friends and having some more time, watching anime and series(📺).
 
-[! [Crachá do Twitter] (https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Petronio_RJ)] (https://twitter.com/Petronio_RJ)
-
-[! [Selo no Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petronio-bernardino/)] ( https://www.linkedin.com/in/petronio-bernardino/)
-
 <center>
 <table border="0" bordercolor="#000000">
   <tr>
