@@ -17,7 +17,7 @@ In my free time, I love being with my family and friends and having some more ti
   </tr>  
     <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=petroniobernardino&repo=ExpertsAnimeFlix&theme=''" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=petroniobernardino&repo=ConsultorioDentario_Tester&theme=''" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=petroniobernardino&repo=Cypress-SampleWebPage&theme=''" /></td>
   </tr>  
 </table>
 </center>
