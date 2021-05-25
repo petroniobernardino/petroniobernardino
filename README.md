@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Petronio Bernardino. I am Brazilian and living in Portugal). I have a degree in computer science and a postgraduate degree in IT Management. My greatest work experience is in Business Intelligence, but I have already programmed a lot with ASP (Classic), PHP, HTML, JavaScript, CSS and several Databases.
+My name is Petronio Bernardino. I am Brazilian and living in Portugal. I have a degree in computer science and a postgraduate degree in IT Management. I have over 15 years of experience in the BI area and today I work as a QA (🔭).
 
-Today I'm working with a tester(🔭), studying (🌱) a lot about automation and programming languages.
+Lots of fun in test automation and a lot of development in the vein.
 
 In my free time, I love being with my family and friends and having some more time, watching anime and series(📺).
 
