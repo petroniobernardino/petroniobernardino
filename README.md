@@ -2,7 +2,9 @@
 
 My name is Petronio Bernardino. I am Brazilian and living in Portugal. I have a degree in computer science and a postgraduate degree in IT Management. I have over 15 years of experience in the BI area and today I work as a QA (🔭).
 
-Lots of fun in test automation and a lot of development in the vein.
+Currently allocated at EDP as a Test Architect, helping the Hubs in the implementation of the environment, testing process, implementation of automation and application pipelines. Jira/Xray formation for test control and registration. Designs of processes and reports of the areas of competence.
+
+Experience in specification, planning and execution of tests and generation of status reports. Database tests (Oracle and SQL Server). Having the Jira tool as control and monitoring of the tests. Automation of Web and API systems using the Robot Framework and Selenium tool. Use of data science R language for file analysis. Knowledge of Postman, Insomnia, Cypress, Github and GitLabs tools for code versioning and CD/CI.
 
 In my free time, I love being with my family and friends and having some more time, watching anime and series(📺).
 
